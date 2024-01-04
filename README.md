@@ -1,8 +1,6 @@
-(A). Login System and User Roles (10 mins)
+(A). Login System and User Roles
 
-1. Discuss the login system implementation - secure password hashing, social
-
-login options, etc.
+1. Login system implementation - secure password hashing.
 
 2. Define distinct user roles and permissions for both landlords and tenants.
 
@@ -12,9 +10,9 @@ system.
 
 
 
-(B). Dashboard Design and Functionality (10 mins)
+(B). Dashboard Design and Functionality.
 
-1. Brainstorm ideas for user-friendly dashboard designs for both landlords and
+1. User-friendly dashboard designs for both landlords and
 
 tenants.
 
@@ -22,19 +20,15 @@ tenants.
 
 due, payment history, maintenance requests).
 
-3. Discuss potential interactions within the dashboards (e.g., filtering payments,
+3. Interactions within the dashboards (e.g., filtering payments,
 
 submitting maintenance requests).
 
 
 
-(C). Payment Gateway Integration (10 mins)
+(C). Payment Gateway Integration.
 
-1. Discuss which payment gateways we will integrate (Monnify, Flutterwave,
-
-PayStack, Remita) based on factors like fees, ease of integration, and
-
-popularity in Nigeria.
+1. Flutterwave payment gateways integrate.
 
 2. Define the payment flow and ensure secure transaction processing.
 
@@ -46,7 +40,7 @@ manage payment records.
 
 (D). Reconciliation and Receipt Generation (3 mins)
 
-1. Discuss automatic payment reconciliation and update landlord and tenant
+1. Automatic payment reconciliation and update landlord and tenant
 
 dashboards accordingly.
 
@@ -58,28 +52,28 @@ information.
 
 
 
-(E). Communication and Notification System (5 mins)
+(E). Communication and Notification System.
 
-1. Decide on the methods for notification (email, SMS) for landlord and tenant
+1. Methods of notification for landlord and tenant
 
-communication.
+communication is Email. 
 
-2. Design the automated email or SMS reminder sent to tenants 3 months
+2. Automated email reminder to be send to tenants 3 months
 
 before rent expiration.
 
-3. Discuss the implementation of a contact form or complaint channel for tenant
+3. Contact form or Complaint channel for tenant
 
-communication and maintenance requests.
+communication and Maintenance requests.
 
  
 
-(F). Accounting Feature (5 mins)
+(F). Accounting Feature.
 
-1. Discuss the functionalities needed for the accounting feature (e.g., rent
+1. Functionalities needed for the accounting feature (e.g., rent
 
 tracking, expense recording, income reports).
 
-2. Determine the level of detail and reporting options necessary for landlords.
+2. Detail and reporting options necessary for landlords.
 
-3. Consider potential integrations with accounting software for advanced users.
+3. Potential integrations with accounting software.
