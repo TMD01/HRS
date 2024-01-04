@@ -1,4 +1,4 @@
-A. Login System and User Roles (10 mins)
+(A). Login System and User Roles (10 mins)
 
 1. Discuss the login system implementation - secure password hashing, social
 
@@ -12,7 +12,7 @@ system.
 
 
 
-B. Dashboard Design and Functionality (10 mins)
+(B). Dashboard Design and Functionality (10 mins)
 
 1. Brainstorm ideas for user-friendly dashboard designs for both landlords and
 
@@ -28,7 +28,7 @@ submitting maintenance requests).
 
 
 
-C. Payment Gateway Integration (10 mins)
+(C). Payment Gateway Integration (10 mins)
 
 1. Discuss which payment gateways we will integrate (Monnify, Flutterwave,
 
@@ -44,7 +44,7 @@ manage payment records.
 
 
 
-D. Reconciliation and Receipt Generation (3 mins)
+(D). Reconciliation and Receipt Generation (3 mins)
 
 1. Discuss automatic payment reconciliation and update landlord and tenant
 
@@ -58,7 +58,7 @@ information.
 
 
 
-E. Communication and Notification System (5 mins)
+(E). Communication and Notification System (5 mins)
 
 1. Decide on the methods for notification (email, SMS) for landlord and tenant
 
@@ -74,7 +74,7 @@ communication and maintenance requests.
 
  
 
-F. Accounting Feature (5 mins)
+(F). Accounting Feature (5 mins)
 
 1. Discuss the functionalities needed for the accounting feature (e.g., rent
 
