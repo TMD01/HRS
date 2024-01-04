@@ -1,4 +1,4 @@
-(A). Login System and User Roles
+(A). LOGIN SYSTEM AND USER ROLES. 
 
 1. Login system implementation - secure password hashing.
 
@@ -10,7 +10,7 @@ system.
 
 
 
-(B). Dashboard Design and Functionality.
+(B). DASHBOARD DESIGN AND FUNCTIONALITY.
 
 1. User-friendly dashboard designs for both landlords and
 
@@ -26,7 +26,7 @@ submitting maintenance requests).
 
 
 
-(C). Payment Gateway Integration.
+(C). PAYMENT GATEWAY INTEGRATION.
 
 1. Flutterwave payment gateways integrate.
 
@@ -38,7 +38,7 @@ manage payment records.
 
 
 
-(D). Reconciliation and Receipt Generation (3 mins)
+(D). RECONCILIATION AND RECEIPT GENERATION. 
 
 1. Automatic payment reconciliation and update landlord and tenant
 
@@ -52,7 +52,7 @@ information.
 
 
 
-(E). Communication and Notification System.
+(E). COMMUNICATION AND NOTIFICATION SYSTEM. 
 
 1. Methods of notification for landlord and tenant
 
@@ -68,7 +68,7 @@ communication and Maintenance requests.
 
  
 
-(F). Accounting Feature.
+(F). ACCOUNTING FEATURE. 
 
 1. Functionalities needed for the accounting feature (e.g., rent
 
